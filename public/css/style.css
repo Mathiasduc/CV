@@ -1,0 +1,21 @@
+/* font-family: 'Forum', cursive;
+font-family: 'EB Garamond', serif; */
+body {
+  font-size: 16px;
+  background-color: #eae8e7;
+  margin: 0; }
+  body .main-frame {
+    margin-top: 3rem; }
+
+.box-shadow {
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12); }
+
+.sidebar {
+  background-color: #FFF; }
+  .sidebar h1 {
+    font-family: 'EB Garamond', serif !important; }
+  .sidebar img {
+    height: auto;
+    max-width: 40%; }
+
+/*# sourceMappingURL=style.css.map */

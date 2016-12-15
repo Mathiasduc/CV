@@ -1,0 +1,32 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "My cv",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mathiasduc/cv.git"
+  },
+  "keywords": [
+    "cv",
+    "front-end",
+    "back-end",
+    "junior",
+    "web-dev",
+    "42",
+    "simplon"
+  ],
+  "author": "Mathias Ducancel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mathiasduc/cv/issues"
+  },
+  "homepage": "https://github.com/Mathiasduc/cv#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "semantic-ui-css": "^2.2.4"
+  }
+}

@@ -1,0 +1,21 @@
+/* font-family: 'Forum', cursive;
+font-family: 'EB Garamond', serif; */
+$font: 'EB Garamond', serif !important;
+$body-bgc: #eae8e7;
+$box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+
+body{
+	font-size: 16px;
+	background-color: $body-bgc;
+	margin: 0;
+	.main-frame{
+		margin-top: 3rem;
+	}
+}
+
+.box-shadow{
+	box-shadow: $box-shadow;
+}
+
+@import 'left-column';
+@import 'rigth-column';
